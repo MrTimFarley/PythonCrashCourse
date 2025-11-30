@@ -1,16 +1,17 @@
 class Car:
     """A simple attempt to represent a car."""
 
-    def __init__(self, make, model, year):
+    def __init__(self, make, model, year, body_style):
         """Initialize attributes to describe a car."""
         self.make = make
         self.model = model
         self.year = year
         self.odometer_reading = 0
+        self.body_style = body_style
 
     def get_descriptive_name(self):
         """Return a neatly formatted descriptive name."""
-        long_name = f"{self.year} {self.make} {self.model}"
+        long_name = f"{self.year} {self.make} {self.model} {self.body_style}"
         return long_name.title()
 
     def read_odometer(self):
@@ -31,12 +32,42 @@ class Car:
         """Add the given amount to the odometer reading."""
         self.odometer_reading += miles
 
+class Battery:
+    """A simple attempt to model a battery for an electric car."""
 
-my_used_car = Car('subaru', 'outback', 2019)
-print(my_used_car.get_descriptive_name())
+    def __init__(self, battery_size=40):
+        """Initialize the battery's attributes."""
+        self.battery_size = battery_size
 
-my_used_car.update_odometer(23_500)
-my_used_car.read_odometer()
+    def describe_battery(self):
+        """Print a statement describing the battery size."""
+        print(f"This car has a {self.battery_size}-kWh battery.")
 
-my_used_car.increment_odometer(100)
-my_used_car.read_odometer()
+    def get_range(self):
+        """Print a statement about the range this battery provides."""
+        if self.battery_size == 40:
+            range = 150
+        elif self.battery_size == 65:
+            range = 225
+
+        print(f"This car can go about {range} miles on a full charge.")
+
+    def upgrade_battery(self):
+        """Upgrade the battery if possible."""
+        if self.battery_size < 65:
+            self.battery_size = 65
+            print("Battery upgraded to 65 kWh.")
+        else:
+            print("Battery is already at maximum capacity.")
+
+
+class ElectricCar(Car):
+    """Represent aspects of a car, specific to electric vehicles."""
+
+    def __init__(self, make, model, year, body_style):
+        """
+        Initialize attributes of the parent class.
+        Then initialize attributes specific to an electric car.
+        """
+        super().__init__(make, model, year, body_style)
+        self.battery = Battery()

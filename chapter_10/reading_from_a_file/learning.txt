@@ -1,0 +1,4 @@
+Here is what I have learned about python.
+I have learned more about modules and classes.
+I have learned about different ways to pass parameters to a function to specify tuples or dictionaries as arguments.
+I have learned how to read from a file and write to a file.

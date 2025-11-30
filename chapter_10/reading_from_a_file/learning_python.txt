@@ -1,0 +1,4 @@
+Here is what I have studied about python.
+I have studied more about modules and classes.
+I have studied about different ways to pass parameters to a function to specify tuples or dictionaries as arguments.
+I have studied how to read from a file and write to a file.

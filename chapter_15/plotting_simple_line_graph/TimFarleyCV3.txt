@@ -1,0 +1,213 @@
+Tim Farley
+Beaverton, OR, USA, (503) 781-6234, mrtimfarley@gmail.com, www.linkedin.com/in/mrtimfarley
+
+Career Summary
+Accomplished software leader with 20+ years of experience defining, developing, and deploying software teams, tools, and processes to improve development productivity, product quality, and customer satisfaction. Proven record of delivering world-class automated testing solutions, industry-leading high-quality products, and business-appropriate regulatory-compliant processes. Consistently able to align, motivate, and lead large worldwide organizations through change and converge on common tools, processes, methods, and metrics producing better results.
+
+Recommendations
+�Tim is one of those rare leaders that can really drive change and transformation in an organization.� - Katie Teslow, Sr. Staff Program Manager
+
+�Tim�s efforts and vision were responsible for bringing to life a testing methodology that literally set the bar within the company.� - Victor Weinstein, Staff Engineer
+
+�Tim does a great job, rare in the business, of focusing on meeting business and customer objectives while also advancing technical practices and being better positioned for the next product development cycle.� - Rod Belshee, Platform Engineering Manager
+
+Skills & Specialties
+* 
+* Organizational Transformation
+* Regulatory-Compliant Processes
+* Software Quality Assurance (SQA)
+* Software Testing & Automation
+* Scaling Processes & Practices
+* Software Development Lifecycle
+* Staff Management & Growth
+* Agile & Lean Methodologies
+* Project & Program Management
+* Innovation & Operationalization
+* Cross-Functional Collaboration
+* Continuous Improvement
+* Metrics & Data-Driven Decisions
+* Data Analysis & Validation
+* Generative AI Strategy
+
+Industries & Technologies
+
+* Medical Devices & Healthcare
+* Enterprise IT
+* Aerospace
+* Embedded Systems
+* Online Marketplaces
+* Consumer Products
+* Customer Portals
+* Startups & Fortune 500
+* Mobile Apps
+* iOS/Android
+* Win/MacOS/Linux
+* Web & Client Applications
+
+
+Education
+* 
+* Brown University, Bachelors, Computer Science
+* Brown University, Bachelors, Anthropology
+
+Certifications
+
+
+
+* 
+* PMI Project Management Professional (PMP)
+* Scaled Agile Framework� Program Consultant (SPC)
+* Scaled Agile Framework� Scrum Master (CSM)
+* Scaled Agile Framework� DevOps Practitioner
+* Change Management Professional
+* Design for Lean Six Sigma Green Belt
+
+Honors & Awards
+* 
+* Management Leadership Program, ID.me, 2024
+* Leadership Journey, Cambia Health, 2015
+* Outside In Teamwork Award, Cambia Health, 2015
+* Situational Leadership Program, Cambia Health, 2014
+
+Publications & Presentations
+* Cultivating SQA Engineers
+* Development-Driven Testing: Ensuring Testing Meets the Needs of Software Developers
+* Development-Driven Testing Case Study
+* Calculating Automated Testing ROI
+
+
+
+Work Experience
+
+Software Engineering Manager, Principal SQA Engineer, ID.me, McLean, VA, 05/2022 to 03/2024
+
+Led Quality Engineering & Software Tooling team for $1.8B startup providing identity verification services for IRS, SSA, VA, and other governmental agencies and private businesses.
+* Operationalized best practices. Created Communities of Practice (CoP) and drove organization to adopt best practices for unit and integration testing, test data de-identification, Section 508 Accessibility compliance and usability, requirements specifications, testing strategy, design documents, semantic versioning, and root cause analysis. Developed guidelines, examples, and training. Monitored engagement and proficiency. Enhanced Quality Management System (QMS). Reduced risk and ensured compliance with and traceability to NIST SP 800-63.
+* Improved product delivery. Assessed tools and processes of 7 remote teams, identified inconsistencies, and implemented changes in Jira to converge on common workflows and data collection. Defined product and process metrics and Key Performance Indicators (KPIs), created SQL queries and dashboards in Jira and Confluence, and tracked engagement, proficiency, and progress towards Objectives & Key Results (OKRs). Improved focus on delivering planned, high-value, and contractually-required work. Coached engineering managers. Introduced automated functional regression testing in Continuous Integration & Continuous Delivery (CI/CD) pipeline using GitHub Actions.
+* Improved B2B customer experience. Instituted sandbox environment qualification for customer integration testing. Automated Application Programming Interface (API) testing and validated external API documentation, instructions, and examples. Reported customer-facing test results and coverage.
+* Accelerated agile transition. Established common estimating and schedule-projection methods. Introduced velocity, capacity, and resource-balancing methods and measures. Drove organization to deliver smaller work items more often. Improved sprint planning collaboration between Development, SQA, and Product teams.
+* Integrated Generative AI into SDLC. Defined acceptable scope of chatGPT use and assessed output for quality assurance and development deliverables.
+* Managed quality organization. Created Quality Engineering team. Defined multi-year quality improvement roadmap for individuals and organization. Created job descriptions. Identified training and certification needs, and opportunities for growth and career advancement. Coached and mentored staff. Introduced test plans, test cases, test procedures, traceability, and test coverage. Led transition from manual to automated testing of web, mobile apps, and APIs, using BrowserStack, Katalon, Playwright, Python, Postman, Ruby, and Allure. Introduced load, stress, and performance testing using Locust and JMeter.
+
+
+Software Engineering Manager, Principal SQA Engineer, LevelTen Energy, Seattle, WA, 06/2021 to 10/2021
+
+Led global Data Reliability & Software Reliability teams for $300M startup providing online renewable energy marketplace.
+* Operationalized best practices. Defined end-to-end software quality assurance and testing practices. Created product quality metrics. Led data quality improvements, including vendor data validation, data acquisition schedule, and Extract Transform Load (ETL) process definition. Improved requirements completeness, consistency, testability, traceability, and prioritization. Introduced secure coding practices. Established defect tracking and fix verification processes.
+* Improved product quality. Increased functional test coverage. Led Root Cause Analysis (RCA) and investigations to understand and address causes of bad releases. Instituted automated build testing in Continuous Integration & Continuous Delivery (CI/CD) pipeline using Jenkins, Cypress, Python, Postman, Newman, and Allure. Collaborated with Data Analytics team to define Software Development Lifecycle (SDLC), metrics, and deliverables. Collaborated with System Engineering team to improve requirements specifications and traceability.
+* Drove agile development adoption. Defined scrum practices and sprint planning processes, monitored engagement, and coached engineering managers. Led transition from Asana to Jira.
+* Managed quality organization. Created job descriptions. Hired and trained staff. Managed team resources, agile backlog, sprint planning, priorities, and schedules. Reviewed deliverables.  Created SQL queries and dashboards for product and process metrics.
+
+
+Strategic Technology Architect, Insitu, Hood River, OR, 05/2016 to 04/2020
+Ensured compliant software development processes, methods, and tools for $500M military drone aircraft company.
+* Ensured compliance. Performed gap analysis between defined Standard Operating Procedures (SOPs) and actual practices. Created multi-year roadmap for improvements. Created new agile Software Development Lifecycle (SDLC) to ensure compliance and provide flexibility to engineering teams. Defined end-to-end development milestones, metrics, activities, and deliverables for software organization. Created Confluence-based standards, guidelines, FAQs, templates, examples, and training. Ensured appropriate level of rigor applied to development activities based on Mil-Std-882 and DO-178C. Ensured compliance with and traceability to AS9100/AS9115 and NATO AQAP 2210. Enhanced Quality Management System (QMS).
+* Operationalized best practices. Defined Root Cause Analysis (RCA), Corrective Action & Preventative Action (CAPA), and Software Failure Modes & Effects Analysis (FMEA) standards, requirements definition guidelines, and testing strategy methods. Defined metrics to monitor Work In Progress (WIP), technical debt, and review delays. Defined requirements, testing, issue, and agile backlog management best practices using Jira, Aha!, DOORS, TestRail, PTC Integrity, and Confluence. Defined engineering level skills, proficiency, and training requirements. Led Software Engineering Community of Practice (CoP) and represented Insitu on SAFe Best Practice Exchange (BPE).
+
+
+
+
+Strategic Technology Manager, Cambia Health Solutions, Portland, OR, 08/2012 to 01/2016
+
+Led Best Practices Team to deliver processes, tools, and training to the $10B Cambia family of companies.
+* 
+* Improved development efficiency. Led outreach to 120 SQA and UAT engineers and 600 software developers across 50+ scrum teams at 15 companies using Java, Ruby, Python, C#, C, C++, and SQL, to converge on common tools and methods for cloud, mobile, and enterprise IT applications. Inventoried tools and created turnkey Continuous Integration & Continuous Delivery (CI/CD) pipeline. Led technical summits for mobile development, testing infrastructure, ETL, usability, and agile management. Created Best Practice Exchanges. Created annual quality week event and communications channels for best practices and team success stories. Led ISTQB training program for 100 SQA engineers.
+* Operationalized best practices. Created agile Software Development Lifecycle, milestones, and metrics. Created standards, guidelines, FAQs, and training. Ensured consistent C-level reporting of project progress and product quality. Drove companies to 100% engagement in automated unit testing, introduced Test-Driven Development (TDD) and Behavior-Driven Development (BDD) practices and frameworks, and led transition to automated API, functional, and performance testing of web, mobile, and IT applications using FitNesse, Selenium, Appium, AWS Device Farm, SoapUI, and JMeter. Created Rally-based automated metrics reporting system using 60+ agile best practices. Redesigned User Acceptance Testing (UAT) process to focus on KPIs, workflow, and training. Provided appropriate tools for UAT staff to create automated tests. Defined Technical Leadership training program for non-managers. Defined test strategy framework.
+* Improved vendor management. Drove creation of Office of Vendor Management overseeing annual $150M in vendor software contracts. Created software vendor evaluation, selection, and risk management processes, templates, and training. Coached product teams. Performed vendor risk assessments. Created vendor issue tracking system and methods.
+* Managed engineering organization. Managed team of 12, including software developers, DevOps engineers, Technical Program Managers (TPMs), data analysts, and SQA engineers. Designed professional growth plans and tracked progress. Managed team backlog, led sprint planning, and prioritized work. Mentored college interns and participated in college recruitment and community outreach. Led business continuity planning.
+
+Sr. Software Quality Assurance Manager, Principal SQA Engineer, HCL America, Wilsonville, OR, 07/2011 to 08/2012
+Led offshoring of software quality function from Xerox to HCL.
+* Maintained operational excellence. Trained offshore staff to use Xerox tests, tools, processes, and metrics. Led replication of automated testing systems and support across global organization. Ensured product and process quality OKRs met.
+
+Sr. Software Quality Assurance Manager, Principal SQA Engineer, Xerox Corp., Wilsonville, OR, 01/2000 to 07/2011
+
+Delivered 27 zero-defect products and set the Gold Standard for Xerox.
+* Drove worldwide organization integration. Led worldwide multi-year initiatives to converge on common tools, metrics, specifications, agile management practices, defect tracking, testing strategies, and SDLC. Created Communities of Practices. Led annual improvement assessments. Led continuous improvement efforts, post-project reviews, and sprint retrospectives. Piloted and operationalized all improvements. Facilitated RCA and CAPA reviews. Ensured ISO9001 and Section 508 Accessibility compliance. Enhanced QMS.
+* Drove agile development adoption. Led transition to agile development. Created agile project management process, tools, reports, and training. Coached Scrum Masters, Product Owners, and Engineers. Monitored engagement and metrics.
+* Improved product delivery efficiency. Partnered with Development to define interface specifications, software designs, and functional requirements. Led development of scalable automated test infrastructure, simulation environment, and test request system. Led development of automated localization testing tool and strategy to increase coverage and reduce cost. Improved schedule communication and predictability across worldwide organization. Reduced development costs by $20M with automation, simulation, prototype reuse, and shortened delivery schedules. Defined quality and testing strategies. Piloted and operationalized new methods and technologies.
+* Improved product quality. Led development of 10,000 automated and 50,000 manual test cases for 100% coverage of functional requirements for connectivity, networking protocols, localizations, security, embedded web server, client applications and drivers, performance, print, copy, scan, and fax features, and solid ink print engines. Defined and operationalized SDLC and test strategy framework. Created metrics, SQL queries, dashboards, and trend charts tracking product quality, project progress, and continuous improvement. Created and executed quality and test plans, managed metrics, and ensured release requirements met.
+* Managed projects and programs. Participated in organization roadmap and resource planning. Collaborated with cross-functional teams to create development, quality, and test plans. Managed project and program backlog. Reviewed epics, stories, and tasks to ensure best practices observed to reduce waste and delays. Projected schedules, balanced resources, and led cross-functional discussions to determine project scope, program milestones, and work item priorities. Tracked, reported, and acted upon metrics to ensure predictable delivery. Led cross-functional triage team to address changes, issues, and enhancement requests. Reviewed and approved engineering deliverables.
+* Led software quality organization. Led 4 Engineering Managers with 60 Software Development Engineers in Test (SDETs), SQA Engineers, and Test Technicians in matrixed $7M organization. Coordinated activities of 5 local and 20 global SQA teams comprised of 200+ engineers in US, UK, India, China, and Korea. Reviewed and approved quality and testing deliverables. Prioritized and balanced workloads and staffing. Managed subsystem, integration, and end-to-end system level test development, execution, and maintenance for embedded C/C++ firmware, client, web, and mobile software. Led quality effort for $1B prototype-driven print engine development project. Led creation of worldwide issue tracking and agile backlog management systems based on Rational ClearQuest.
+
+
+
+Software Quality Assurance Architect, Tektronix, Wilsonville, OR, 08/1996 to 01/2000
+
+Transformed embedded software development process to deliver platform-based products with predictable quality, cost, and schedule.
+* Improved product delivery efficiency. Defined SDLC milestones, deliverables, activities and metrics, and ensured compliance with ISO9001. Created new requirements specifications for all product lines. Redesigned test documentation to improve traceability, coverage and clarity. Instituted daily build verification testing and continuous integration processes. Created strategy for software product line development and testing, enabling reuse of specifications, tests, fixtures, and traceability matrices. Introduced TDD & BDD practices. Introduced functional and structural coverage tools and measurements. Automated localization testing. Created OEM and automated testing strategies for connectivity protocols and client software. Introduced interoperability testing. Created testing strategy for industry�s first embedded web servers in network printers.
+* Ensured compliance. Defined SDLC, deliverables, and activities to ensure compliance with FDA Good Manufacturing Practices (GMP) and Design Controls requirements for Class II DICOM printer medical device product line. Wrote SOPs, created templates, and trained SQA and development. Wrote QA Plan, SQA Plan, Test Plans, traceability matrices, test cases and test procedures. Managed test execution, defect tracking and fix verification through FDA compliance audits.
+* Led software quality organization. Led local and outsourced matrix-managed teams of 6-20 SQA engineers and test technicians to test embedded, client and web-based product features. Led team of software developers to test their own product. Created and managed beta testing programs at Nike, Precision Castparts, and Wieden+Kennedy. Led testing of new product platform, including network protocols, image processing, front panel and web interfaces, and security features. Created and maintained work backlog, schedules, and allocated resources, prioritized work, and tracked project progress and quality metrics. Reviewed and approved engineering plans, designs, and specifications.
+
+Software Quality Assurance Manager, Physio-Control, Redmond, WA, 04/1992 to 09/1994
+
+Returned company to compliance with FDA Good Manufacturing Practices (GMP) and Design Controls requirements for Class III (critical) medical devices, allowing consent decree to be resolved, manufacturing to resume, products to be sold, and development activities to continue.
+* Ensured compliance. Determined regulatory requirements and defined processes and deliverables, including requirements specifications, unit testing, integration testing, system testing, configuration management plans and software development plans. Introduced use of IEEE standards for development and test documentation. Documented traceability and coverage for GMP, ISO, TUV, and CSA requirements.
+* Operationalized best practices. Defined software release criteria, including functional and structural test coverage, defect fix verification and regression testing. Created hazard mitigation guidelines for software. Created SOPs, templates, and training.
+* Led retrospective software validation program. Defined software validation strategy. Wrote Test Plans and Test Summary Reports. Managed resources and schedule. Reviewed and approved requirements specifications, design documents, code, hazard analyses, Software FMEAs, test cases, traceability matrices, and test results. Led manufacturing process validations, equipment qualifications and manufacturing test validations. Ensured products met release criteria. Presented product validation processes and results to FDA auditors. Returned 3 product lines to full operation, including defibrillators, 12-lead ECG heart monitors, and external pacemakers.
+* Led software quality organization. Managed team of 11 software engineers responsible for manual system testing and automated unit testing. Led development of automated unit test environment and embedded code coverage analyzer. Created schedules, tracked resources usage, and created process for rotating developers through testing roles. Managed contract and outsourced resources for functional test development, documentation, and manual testing.
+
+
+
+Community Leadership
+Working Group Member, IEEE 7003 Standard for Algorithmic Bias Considerations, 2018 to 2022
+* Contributed to initial project planning and outline for international guidelines for software development to minimize or eliminate algorithmic bias.
+
+President, Pacific Northwest Software Quality Conference, 2016 to 2017
+* Led all-volunteer non-profit chartered with increasing education of software professionals and improving software quality through better quality assurance practices, testing, management, DevOps, and software development. 
+* Managed conference schedule, budget, resources, delegation of responsibilities, and planning for successful delivery of longest running annual software quality conference in the United States.
+* Built roadmap for continued successful execution of conference as member of board of directors.
+
+Program Chair, PNW Software Quality Conference, 2014 to 2016
+* Defined topics, tracks, speakers and formats for annual software conference.
+* Solicited and selected speakers, planned networking events, and created social media campaigns. 
+* Led all-volunteer Program Committee member activities, tracked deliverables and issue resolutions, and ensured smooth execution of 2-day conference of 43 presentations, keynotes, lunchtime speakers, and closing.
+* Reviewed draft and final papers for publishing in conference proceedings.
+* Proposed and implemented changes to program selection and execution as member of board of directors.
+
+Development & Engineering Committee Member, Technology Association of Oregon, 2012 to 2014
+* Provided insight into the software development and quality assurance community in Portland, Oregon.
+* Proposed and planned networking events, speakers, and sponsorships to strengthen ties between companies and professionals.
+* Participated in panel discussions for sponsored industry events focused on test automation.
+
+Projects
+Bias Breakers, 2014 to Present
+* Founded company to provide teams with tools to improve awareness of cognitive bias in decision-making and take steps to minimize the impact of cognitive bias.
+* Created end-to-end business, including registering LLC, creating products, registering domain name, attaining trademark, building web storefront, marketing, and processing orders.
+* Responded to requests to create additional Bias Breakers materials, including coasters and plushies.
+
+
+
+RECOMMENDATIONS
+
+"Tim is one of those rare leaders that can really drive change and transformation in an organization. He?led the way at Xerox to provide innovative QA solutions and strategies. He successfully championed and managed the development of an automated testing infrastructure, which provided higher quality testing?for significantly reduced costs. When our organization adopted Agile development, he led the way with?best practices. Tim fostered a fantastic partnership between QA and development; he understands software development at a deep level, and how QA can support that process at each step to provide the best product we can make. I worked with Tim for several years as a software project manager. I always knew that the QA on my project was under control. He would proactively address and handle issues. I could rely on his strategy, management of his team, and his expertise 100%." � Katie Teslow, PMP, Sr. Technical Program Manager
+"Tim's leadership played a key role in transforming the SQA team and process to provide rigorous and efficient testing of the embedded firmware I participated in developing. Tasked with doing more with less,?he and his team became more closely integrated with the developers which was instrumental in developing targeted and highly automated testing. Tim's efforts and vision were responsible for bringing to life a testing methodology that literally set the bar within the company. As a developer, I greatly appreciated the strengths of our test process which was embraced for its efficiency and allowed us to quickly deliver highly reliable software Tim draws not only on his experience but also demonstrates a willingness to incorporate advances in development process including his understanding and application of lean design." � Victor Weinstein, Staff Engineer
+"This is heartfelt recommendation for Tim Farley I�ve know and worked directly with time for over 7 years. He is an expert in his field and has continuously strived to improve SQA and testing practices to keep pace with the modern world. His world view of testing comprehends the realities of daily development and the best interests of the customer which come first. He is a good manager of people, his interactions with peers and superiors are flawless and his is calm and confident in all meetings and presentations even when under extreme pressure. He is considered the Subject matter expert and consulted numerous times on the state of SQA its current and future direction. His deliverables are always met on time and he managerially runs a tight ship." � Iain Harding, Systems Engineering Manager ?
+"I am a product development software engineer that has worked with Tim over the past 10 years. Tim managed a team of Software Quality Engineers. He provided valuable leadership and input to develop several new innovative software test tools. One feature of these tools enabled testing thousands of test cases and allowed for rapid identification of introduced software defects on a nightly basis. Tim helped foster a synergistic working environment between his SQEs and the product development engineers. He and his team are very knowledgeable and competent. I highly recommend Tim." � John Howell, Sr. Software Engineer
+"I have had the opportunity to work with Tim directly to recruit new employees by attending outreach events. Tim has always volunteered to assist in speaking with prospective employees. He has great enthusiasm when speaking with students about QA career opportunities. He has been a great representative of the organization and provided invaluable feedback to help improve our recruitment materials and messaging to prospective employees. I have also worked with Tim to hire, onboard and mentor Cambia interns. He has been a huge advocate for our internship program and our interns have spoken highly of his mentorship. I have enjoyed working with Tim and think he is a great team member." � Michelle Schwartz, Diversity & University Programs Manager ?
+"I personally worked with Tim on Cambia's strategic initiatives. He challenged the status quo and suggesting new approaches. Tim brought new ideas to Cambia at a critical time as the healthcare industry was facing major changes due to the Affordable Care Act. Tim's innovations enabled SQA teams to increase their expertise. Examples include: Quality Assurance practices and onsite training, online QA courses, direct engagement on projects to demonstrate practices, and piloting new testing tools and approaches. Tim is an asset to any company." � Kim Wongwai, Strategic Technology Manager ?
+"I have worked closely with Tim on several projects at Xerox. Tim's contributions to SQA in our organization have been immense. Tim has consistently been at the forefront of introducing best QA practices. Tim championed and led the implementation of automated system testing on our products which has provided a huge benefit to our product quality and reliability. Tim was critical in the adoption of agile processes within SQA which led to finding and fixing bugs early in development. Tim is an excellent person to work with. He is always positive and willing to help. I know I can count on Tim and heartily recommend him." � Ashutosh Sanzgiri, Technical Program Manager
+"Tim is a great combination of easy-going guy with a passion to improve and progress things. He is the driving force for our automated test and TDD. He is very much focused on the immediate business and customer needs, but also leads us into the future with new technologies and practices. He does a great?job, rare in the business, of focusing on meeting business and customer objectives while also advancing technical practices and being better positioned for the next product development cycle. He seems completely unflappable." � Rod Belshee, Platform Engineering Manager
+"Tim is an extremely talented Quality Assurance Project Manager. He particularly excels at QA strategy.?He keeps on the forefront of developments in his field, applies best practices to the project(s) at hand,?and disseminates learning and insight back to his peer community. A true professional. Tim and I worked closely on several projects, and it was always a pleasure. Tim understands that a partnership should exist between SW Development and SW QA, and approaches projects with that in mind. His written and verbal communication skills are top notch. He is always reliable, always willing to listen, and always willing to help. Tim has nothing but my highest recommendations." � Meghan Shaw, Product Integration Manager
+"Tim Farley is one of the most creative, agile, and positive people I've had the pleasure to work with. We partnered on a variety of improvement efforts and he always drove for excellence, looked for creative alternatives to roadblocks, and did so with good humor." � Mary Hobson, Commercial Products Marketing Manager ?
+"I worked with Tim for many years as he provided leadership for our SW QA testing efforts. Tim is extremely knowledgeable in SW QA and full of great ideas for automated SW testing. Tim helped drive our products to an exceptional level of SW reliability." � Brent Fleming, Sr. Software Engineer
+"Tim is one of the top QA managers I have encountered, able to create processes and metrics to match any situation, and drive them, delivering superior product quality."  � Paul Philippi, Software Architect
+"Tim is the best SQA project manager I have ever worked with. In addition to being a highly effective and detail oriented SQA project manager, Tim continuously innovates and improves the SQA strategy and processes. He worked closely with software development teams within Xerox (including mine) to develop state-of-the-art automated testing infrastructure and processes. I highly recommend Tim and would hire him if I had the opportunity." � Jeremy Smith, Sr. Engineering Manager
+"Tim worked for me on a number of high-visibility projects. His expertise and deep understanding of the SQA domain coupled with significant exposure to Agile and the full SDLC was critical to the success of the department. Of equal importance was Tim's willingness to learn & adapt. He thrives on re-engineering a process / way of working with an objective of building higher efficiency or effectiveness. An asset to any organization." � James Webster, Director of Product Quality ?
+"I worked with Tim for the past 12 years at Xerox/HCL. Tim is full of ideas on how to make things better and is willing to lead the organization through the required change. He works closely with the development and management teams to understand their needs and implement solutions to meet those needs. He initiated and led many of the efforts to implement automated system regression testing. These efforts allowed for orders of magnitude improvement in the number of test cycles that could be performed and significantly reduced the time that it took to find regression failures. Tim has vast knowledge of the latest and best QA practices and how to apply them. On top of this he is down to earth positive and easy going." � Michael Moore, System Validation Engineer
+"Tim effectively managed SQA for product integration on a global stage in a continuously shifting environment. Tim built a team that provided testing and verification that was crucial to our product development. This integration into our development environment provided firmware releases with extremely low defects while allowing us to consistently meet our schedules. Tim was a major influence on the successful delivery of all the products I worked on at Xerox." � Joey Smith, Sr. Software Engineer ?
+"Tim was the "go-to" guy at Tektronix/Xerox/HCL for pretty much the duration of my tenure there, about 18 years. Tim ran the show. He was well respected by both management and peers as a quality, hard-working individual who consistently met his commitments, sometimes under very trying circumstances, and always with a positive attitude and a smile. Tim's knowledge of QA best practices is vast. He is considered the site guru on QA at Wilsonville and well respected throughout the rest of Xerox and HCL. In summary, if I were building a QA department, I can't think of a better person I'd like to anchor my staff with than Tim Farley." � Bill Toner, Release Engineering Manager
+
+
+
+
+
+1
+
+
+
+
+
+1
+
+
