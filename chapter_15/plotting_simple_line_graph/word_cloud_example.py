@@ -3,7 +3,7 @@ from pathlib import Path
 import matplotlib.pyplot as plt
 
 # Your text data
-text = Path("TimFarleyCV3.txt").read_text()
+text = Path("CV3.txt").read_text()
 
 
 # Create a WordCloud object
