@@ -9,6 +9,6 @@ for requested_topping in requested_toppings:
         available_toppings.append(requested_topping)
     else:
         print(f"Okay, we have {requested_topping}.")
-    print(f"Available toppings are: {available_toppings}")
     
+print(f"Available toppings are: {available_toppings}")
 print("\nFinished making your pizza!")

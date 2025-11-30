@@ -34,6 +34,5 @@ while len(guestlist) > 2:
 print()
 invite_guests(guestlist)    
 
-for final_guest in guestlist:
-    guestlist.remove(final_guest)
+guestlist.clear()
 print(f"\nFinal guest list: {guestlist}")

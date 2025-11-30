@@ -7,7 +7,8 @@ def count_words(path):
     try:
         contents = path.read_text(encoding='utf-8')
     except FileNotFoundError:
-        error_log.write_text(f"File not found: {path}\n", encoding='utf-8')
+        with error_log.open('a', encoding='utf-8') as f:
+            f.write(f"File not found: {path}\n")
         pass
     else:
         # Count the approximate number of words in the file:
